@@ -1,0 +1,27 @@
+.container {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 150px auto 150px;
+  grid-gap: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background: blueviolet;
+}
+.main {
+  background: rgb(226, 29, 95);
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto ;
+  grid-gap: 5px;
+  
+}
+.footer {
+  background: rgb(212, 221, 82);
+}
+.section {
+  background: rgb(153, 139, 167);
+  grid-gap: 10px;
+}

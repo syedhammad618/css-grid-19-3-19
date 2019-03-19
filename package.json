@@ -1,0 +1,11 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "CSS Grid And Flex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usairim Isani",
+  "license": "ISC"
+}
