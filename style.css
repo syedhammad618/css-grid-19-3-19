@@ -13,10 +13,10 @@ body{
 }
 
 .header {
-  background: rgb(84, 66, 102);
+  background: rgb(83, 42, 124);
 }
 .main {
-  background: rgb(255, 34, 111);
+  background: rgb(17, 17, 17);
   display: grid;
   grid-template-columns: auto auto;
   grid-template-rows: auto auto ;
@@ -24,9 +24,9 @@ body{
   
 }
 .footer {
-  background: rgb(7, 7, 7);
+  background: rgb(226, 30, 30);
 }
 .section {
-  background: rgb(110, 0, 221);
+  background: rgb(134, 134, 134);
   grid-gap: 10px;
 }
